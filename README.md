@@ -17,4 +17,4 @@
 
 ## 遊玩影片
 
-{%youtube g2lW-iSWXJo %}
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/g2lW-iSWXJo/mq2.jpg?sqp=COTS05cG&rs=AOn4CLBG4sHHbMAfq8irTkQJY8aTLY0Yhw)](https://www.youtube.com/watch?v="g2lW-iSWXJo")
